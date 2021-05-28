@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="01-first-srpingcloud-provider" />
+        <module name="03-eureka-server9100" />
+        <module name="03-provider" />
+        <module name="01-first-springcloud-consumer" />
+        <module name="03-eureka-server9200" />
+        <module name="03-consumer" />
+        <module name="02-eureka-server" />
+        <module name="02-eureka-client-consumer" />
+        <module name="03-eureka-cluster-provider" />
+        <module name="02-eureka-client-provider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="01-first-springcloud-consumer" target="1.8" />
+      <module name="01-first-srpingcloud-provider" target="1.8" />
+      <module name="02-eureka-client-consumer" target="1.8" />
+      <module name="02-eureka-client-provider" target="1.8" />
+      <module name="02-eureka-server" target="1.8" />
+      <module name="03-consumer" target="1.8" />
+      <module name="03-eureka-cluster-comsumer" target="1.8" />
+      <module name="03-eureka-cluster-consumer" target="1.8" />
+      <module name="03-eureka-cluster-provider" target="1.8" />
+      <module name="03-eureka-cluster-server9100" target="1.8" />
+      <module name="03-eureka-cluster-server9200" target="1.8" />
+      <module name="03-eureka-server9100" target="1.8" />
+      <module name="03-eureka-server9200" target="1.8" />
+      <module name="03-provider" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="01-first-springcloud-consumer" options="-parameters" />
+      <module name="01-first-srpingcloud-provider" options="-parameters" />
+      <module name="02-eureka-client-consumer" options="-parameters" />
+      <module name="02-eureka-client-provider" options="-parameters" />
+      <module name="02-eureka-server" options="-parameters" />
+      <module name="03-consumer" options="-parameters" />
+      <module name="03-eureka-cluster-comsumer" options="-parameters" />
+      <module name="03-eureka-cluster-consumer" options="-parameters" />
+      <module name="03-eureka-cluster-provider" options="-parameters" />
+      <module name="03-eureka-cluster-server9100" options="-parameters" />
+      <module name="03-eureka-cluster-server9200" options="-parameters" />
+      <module name="03-eureka-server9100" options="-parameters" />
+      <module name="03-eureka-server9200" options="-parameters" />
+      <module name="03-provider" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/01-first-springcloud-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-first-srpingcloud-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-eureka-client-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-eureka-client-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-eureka-server9100/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-eureka-server9200/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-provider/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
